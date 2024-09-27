@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+h3 {
+  text-align: center;
+}
+
+.ingresar {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,35 @@
+* {
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+}
+
+.centrado {
+  text-align: center;
+}
+
+input {
+  border: 1px solid;
+}
+
+.validar {
+  display: flex;
+  padding-top: 20px;
+  justify-content: center;
+}
+button {
+  border: 1px solid;
+  padding: 10px;
+}
+span {
+  padding: 20px;
+  font-weight: bold;
+}
+#container div {
+  text-align: center;
+}
